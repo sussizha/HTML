@@ -1,0 +1,115 @@
+#Header
+{
+    width:1200px;
+    height:55%;
+    border:1px solid black;
+    position:relative;
+}
+#Logo
+{
+    float:auto;
+}
+#Upper_Right
+{
+    float:right;
+    position:absolute;
+    right:1px;
+}
+#Carousel
+{
+    width:1200px;
+    border:1px solid red;
+}
+#tab
+{
+    width:1200px;
+    height:5%;
+    border:1px solid yellow;
+}
+.Content
+{
+    width:1200px;
+    height:249px;
+    border:1px solid blue;
+    position:relative;
+}
+.ContentItem
+{
+    width: 300px;
+    height:33%;
+    border:1px solid;
+    float:left;
+    margin-top:-1px;
+}
+/*#Content2*/
+/*{*/
+    /*width: 300px;*/
+    /*height:33%;*/
+    /*border:1px solid;*/
+    /*float:left;*/
+/*}*/
+/*#Content3*/
+/*{*/
+    /*width: 300px;*/
+    /*height:33%;*/
+    /*border:1px solid;*/
+    /*float:left;*/
+/*}*/
+/*#Content4*/
+ /*{*/
+     /*width: 300px;*/
+     /*height:33%;*/
+     /*border:1px solid;*/
+     /*float:left;*/
+ /*}*/
+/*#Content5*/
+/*{*/
+    /*width: 300px;*/
+    /*height:33%;*/
+    /*border:1px solid;*/
+    /*float:left;*/
+/*}*/
+/*#Content6*/
+/*{*/
+    /*width: 300px;*/
+    /*height:33%;*/
+    /*border:1px solid;*/
+    /*float:left;*/
+/*}*/
+/*#Content7*/
+/*{*/
+    /*width: 300px;*/
+    /*height:33%;*/
+    /*border:1px solid;*/
+    /*float:left;*/
+/*}*/
+/*#Content8*/
+/*{*/
+    /*width: 300px;*/
+    /*height:33%;*/
+    /*border:1px solid;*/
+    /*float:left;*/
+/*}*/
+/*#Content9*/
+/*{*/
+    /*width: 300px;*/
+    /*height:33%;*/
+    /*border:1px solid;*/
+    /*float:left;*/
+/*}*/
+#Content10
+{
+    width: 290px;
+    height:99%;
+    border:1px solid;
+    float:right;
+    position: absolute;
+    right:1px;
+}
+#footer
+{
+    width:1200px;
+    height:15%;
+    text-align:center;
+    border:1px solid green;
+}
