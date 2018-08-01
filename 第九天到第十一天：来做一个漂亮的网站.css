@@ -1,0 +1,220 @@
+#header {
+    background: url(image/image_9/background7.png);
+    width: 1600px;
+    height: 490px;
+    margin-top: -20px;
+}
+#header p{
+    text-align: center;
+}
+#header form {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+#header form input{
+    margin-left: 50px;
+    margin-right: -10px;
+}
+
+#boatload
+{
+    height:590px;
+    margin:0 auto;
+}
+#boatload > p {
+    text-align: center;
+}
+
+#intro
+{
+    width:1200px;
+    height:450px;
+    margin:0 auto;
+}
+.icon {
+    width:350px;
+    height:150px;
+    float: left;
+    margin-top:70px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-bottom:-20px;
+}
+.img
+{
+    float:left;
+    width:50px;
+    height:100px;
+    margin:20px 10px 10px 10px;
+}
+.icontext
+{
+    float:right;
+    width:280px;
+    height:100px;
+}
+
+#supportive {
+    background: url(image/image_9/Background8.png);
+    width: 1600px;
+    height: 490px;
+    margin-top: -20px;
+}
+
+#supportivetext
+{
+    padding-top:20px;
+    padding-left:50px;
+    width:700px;
+    height:400px;
+}
+
+#supportive form
+{
+    width:700px;
+    height:200px;
+    padding-left:50px;
+    margin-top:-120px;
+}
+
+#supportive input
+{
+    width:200px;
+    height:50px;
+    margin-right:50px;
+}
+
+#try
+{
+    width:1600px;
+    height:420px;
+    text-align:center;
+    border-bottom:1px solid darkgrey;
+    margin-top:50px;
+}
+#try >p
+{
+    font-size:50px;
+}
+
+#try .intro
+{
+    width:300px;
+    height:200px;
+    margin-left:100px;
+    float:left;
+    margin-top:20px;
+}
+
+#pictextgeneral
+{
+    border-bottom:1px solid lightgray;
+}
+
+.pictext
+{
+    width:1200px;
+    height:450px;
+    margin:50px auto -20px;
+}
+
+#pictext1_img
+{
+    float:left;
+}
+
+#pictext1>p
+{
+    margin-left:20px;
+    width:500px;
+    float:left;
+}
+#pictext2_img
+{
+    float:right;
+    margin-right:20px;
+}
+
+#pictext2>p
+{
+    margin-left:20px;
+    width:500px;
+    float:left;
+}
+
+#crew
+{
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+
+}
+
+#contact
+{
+    height:500px;
+    margin-top:50px;
+}
+#contact form
+{
+    width:450px;
+    height:400px;
+    float:left;
+    margin-left:190px;
+    border:1px solid lightgrey;
+    text-align: center;
+}
+
+#contact p
+{
+    margin-top:50px;
+}
+#contact input
+{
+    width:250px;
+    height:50px;
+    margin-bottom:10px;
+    margin-left:10px;
+}
+
+#contactarea
+{
+    width:500px;
+    height:500px;
+    float:left;
+    margin-left:50px;
+}
+
+#contactsmallarea img
+{
+    width:25px;
+    height:25px;
+    margin-right:20px;
+}
+
+#contactsmallarea p
+{
+    margin-top:25px;
+}
+
+#footer
+{
+    display:block;
+    background:black;
+    color:white;
+    height:200px;
+}
+
+.item
+{
+    width:250px;
+    height:120px;
+    float:left;
+    margin-left:100px;
+}
+#enjoy
+{
+    width:200px;
+    height:120px;
+    float:left;
+}
