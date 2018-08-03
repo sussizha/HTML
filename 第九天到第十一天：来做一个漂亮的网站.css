@@ -212,6 +212,11 @@
     float:left;
     margin-left:100px;
 }
+
+.item a:link
+{
+    color:white;
+}
 #enjoy
 {
     width:200px;
