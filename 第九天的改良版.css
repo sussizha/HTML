@@ -1,0 +1,161 @@
+#header
+{
+    text-align:center;
+    color:white;
+    height:400px;
+    background-image:url("image/image_9/Background7.png");
+}
+.Createaccount
+{
+    border:1px solid white;
+    width:70%;
+    height:200px;
+    margin:auto;
+}
+
+#headertable
+{
+    padding:25px;
+}
+
+.level2title
+{
+    font-size:20px;
+}
+
+.level3title
+
+{
+    font-size:12px;
+}
+
+.bigtitle
+{
+    font-size:25px
+}
+
+.title1
+{
+    font-size:18px;
+}
+
+.content1
+{
+    font-size:12px;
+}
+
+.boatload
+{
+    text-align:center;
+    height:400px;
+    border-top:1px solid lightgrey;
+    border-bottom:1px solid lightgrey;
+    margin-left:15%;
+    margin-right:15%;
+}
+
+.imgtxt
+{
+    float:left;
+    width:35%;
+}
+.imgtxt img
+{
+    float:left;
+}
+
+.imgtxt2
+{
+    float:left;
+}
+
+#Supportive
+{
+    color:white;
+    height:400px;
+    background-image:url("image/image_9/Background8.png");
+}
+
+#supportiveinfo
+{
+    width:600px;
+    margin-left:15%;
+    padding:25px;
+}
+
+#notopic
+{
+    border-top:1px solid lightgrey;
+    border-bottom:1px solid lightgrey;
+}
+
+#album1,#album2
+{
+    margin-top:5px;
+    margin-left:15%;
+    margin-right:15%;
+}
+#album1 img
+{
+    float:left;
+    clear:both;
+}
+#album2 img
+{
+    float:right;
+    clear:both;
+}
+
+#crew
+{
+    height:280px;
+    margin-left:15%;
+    margin-right:15%;
+}
+#crew>img
+{
+    height:50%;
+    width:49%;
+}
+
+#contact
+{
+    margin-left:15%;
+    margin-right:15%;
+    height:400px;
+}
+
+#contactsubmit
+{
+    float:left;
+    width:50%;
+}
+
+li
+{
+    list-style:none;
+}
+
+#contactinfo
+{
+    width:50%;
+    float:right;
+}
+
+#footer
+{
+    background-color:black;
+    height:200px;
+    color:white;
+}
+
+.item
+{
+    width:25%;
+    float:left;
+}
+
+.item a:link
+{
+    color:white;
+}
